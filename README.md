@@ -200,10 +200,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousseflimem&theme=tokyonight" alt="GitHub Profile Details" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousseflimem&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousseflimem&theme=tokyonight" alt="Productive Time" />
 </div>
@@ -212,7 +208,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousseflimem&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousseflimem&theme=tokyonight" alt="Most Commit Language" />
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousseflimem&theme=tokyonight" alt="GitHub Profile Details" />
+</div>
 ###
 
 ## 🤝 Connect with Me
