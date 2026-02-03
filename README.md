@@ -107,7 +107,7 @@
 <br>Spring Boot
 </td>
 <td align="center" width="96">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg)" width="48" height="48" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" width="48" height="48" alt="Laravel" />
 <br>Laravel
 </td>
 <td align="center" width="96">
