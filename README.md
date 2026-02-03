@@ -1,5 +1,5 @@
 <h3 align="left">
-Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony</b> and <b>React</b>, crafting scalable microservices and clean UIs.<br><br>
+Hey 👋 I'm Youssef Limem, a full-stack developer working with <b>Symfony</b> and <b>React</b>, crafting scalable microservices and clean UIs.<br><br>
 
 🚀 Building cool stuff every day<br><br>
 
@@ -13,7 +13,7 @@ Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassine-bhn" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=yousseflimem" alt="Profile Views">
 </div>
 
 ###
@@ -78,7 +78,7 @@ Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yassine-ben-hassine/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousseflimem/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
