@@ -36,7 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-**Flutter** • **Kotlin** • **React Native** • **Firebase**
+<p align="left">
+  <strong>Flutter</strong> • <strong>Kotlin</strong> • <strong>React Native</strong> • <strong>Firebase</strong>
+</p>
 
 ###
 
@@ -64,7 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-**HTML** • **CSS** • **JavaScript** • **TypeScript** • **PHP** • **React** • **Next.js** • **Angular** • **Vue.js** • **Redux**
+<p align="left">
+  <strong>HTML</strong> • <strong>CSS</strong> • <strong>JavaScript</strong> • <strong>TypeScript</strong> • <strong>PHP</strong> • <strong>React</strong> • <strong>Next.js</strong> • <strong>Angular</strong> • <strong>Vue.js</strong> • <strong>Redux</strong>
+</p>
 
 ###
 
@@ -82,25 +86,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-**Spring Boot** • **Laravel** • **Symfony** • **Node.js** • **Express.js**
+<p align="left">
+  <strong>Spring Boot</strong> • <strong>Laravel</strong> • <strong>Symfony</strong> • <strong>Node.js</strong> • <strong>Express.js</strong>
+</p>
 
 ###
 
 ## 💻 Programming Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-**C** • **C++** • **C#** • **Java** • **Python**
+<p align="left">
+  <strong>C</strong> • <strong>C++</strong> • <strong>C#</strong> • <strong>Java</strong> • <strong>Python</strong>
+</p>
 
 ###
 
@@ -128,7 +136,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-**Git** • **Docker** • **Kubernetes** • **Postman** • **MongoDB** • **MySQL** • **PostgreSQL** • **Redis** • **VS Code** • **IntelliJ IDEA**
+<p align="left">
+  <strong>Git</strong> • <strong>Docker</strong> • <strong>Kubernetes</strong> • <strong>Postman</strong> • <strong>MongoDB</strong> • <strong>MySQL</strong> • <strong>PostgreSQL</strong> • <strong>Redis</strong> • <strong>VS Code</strong> • <strong>IntelliJ IDEA</strong>
+</p>
 
 ###
 
