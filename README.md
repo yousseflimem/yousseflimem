@@ -87,7 +87,7 @@ Hey 👋 I'm Youssef Limem, a full-stack developer working with <b>Symfony</b> a
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yassine-bhn/yassine-bhn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yousseflimem/yousseflimem/output/snake.svg" alt="Snake animation" />
 
 ###
 komarev.com
