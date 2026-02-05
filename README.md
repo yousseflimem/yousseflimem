@@ -6,15 +6,15 @@
   <i>Crafting scalable applications from frontend to backend, mobile to web</i>
 </p>
 
-###
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yousseflimem" alt="Profile Views">
 </div>
 
-###
 
-## 🚀 About Me
+
+ 🚀 About Me
 
 - 💼 Full-stack developer specializing in **Web** and **Mobile** applications
 - 🌱 Currently exploring **Kubernetes** and diving deeper into **Angular**
@@ -22,9 +22,8 @@
 - ❓ Ask me about **Spring Boot**, **System Design**, or **Cross-platform Mobile Development**
 - ⚡ Fun fact: I'm fluent in **tabs**, not spaces 😎
 
-###
 
-## 📱 Mobile Development
+ 📱 Mobile Development
 
 <table>
 <tr>
@@ -47,9 +46,8 @@
 </tr>
 </table>
 
-###
 
-## 🌐 Frontend Development
+ 🌐 Frontend Development
 
 <table>
 <tr>
@@ -96,9 +94,7 @@
 </tr>
 </table>
 
-###
-
-## ⚙️ Backend Development
+ ⚙️ Backend Development
 
 <table>
 <tr>
@@ -125,9 +121,9 @@
 </tr>
 </table>
 
-###
 
-## 💻 Programming Languages
+
+ 💻 Programming Languages
 
 <table>
 <tr>
@@ -154,9 +150,8 @@
 </tr>
 </table>
 
-###
 
-## 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 
 <table>
 <tr>
@@ -195,9 +190,9 @@
 </tr>
 </table>
 
-###
 
-## 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousseflimem&theme=tokyonight" alt="GitHub Stats" />
@@ -211,9 +206,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousseflimem&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
-###
 
-## 🤝 Connect with Me
+
+ 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yousseflimem/" target="_blank">
@@ -221,13 +216,12 @@
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yousseflimem/yousseflimem/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/yousseflimem">yousseflimem</a></i>
